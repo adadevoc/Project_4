@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Project 4", "Project 4\Project 4.pyproj", "{31AB1E19-6735-4ED3-AA7B-F53B3AE29869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31AB1E19-6735-4ED3-AA7B-F53B3AE29869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AB1E19-6735-4ED3-AA7B-F53B3AE29869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FFC27B9-63CB-4502-A758-EF6C4EE56E31}
+	EndGlobalSection
+EndGlobal
